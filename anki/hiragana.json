@@ -1,0 +1,1912 @@
+{
+  "schema_version": 1,
+  "script": "Hiragana",
+  "model_id": "1947303011",
+  "model_name": "Open Source Kana · Typed Romaji",
+  "field_names": [
+    "Kana",
+    "Romaji",
+    "Reminder",
+    "Mnemonic",
+    "Stroke",
+    "Audio",
+    "Explanation",
+    "Credits"
+  ],
+  "decks": [
+    {
+      "id": 1947303100,
+      "name": "Open Source Hiragana::1: Hiragana",
+      "description": "<p>Open Source Kana — version 1.0. Type lowercase romaji, reveal the answer, then select your review rating. Audio: AI-generated Asuka voice at 80% speed. Audio labels follow the supplied recording order; a complete pronunciation review remains pending.</p>Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+    },
+    {
+      "id": 1947303101,
+      "name": "Open Source Hiragana::2: Dakuten Hiragana",
+      "description": "<p>Open Source Kana — version 1.0. Type lowercase romaji, reveal the answer, then select your review rating. Audio: AI-generated Asuka voice at 80% speed. Audio labels follow the supplied recording order; a complete pronunciation review remains pending.</p>Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+    },
+    {
+      "id": 1947303102,
+      "name": "Open Source Hiragana::3: Handakuten Hiragana",
+      "description": "<p>Open Source Kana — version 1.0. Type lowercase romaji, reveal the answer, then select your review rating. Audio: AI-generated Asuka voice at 80% speed. Audio labels follow the supplied recording order; a complete pronunciation review remains pending.</p>Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+    },
+    {
+      "id": 1947303103,
+      "name": "Open Source Hiragana::4: Yōon Hiragana",
+      "description": "<p>Open Source Kana — version 1.0. Type lowercase romaji, reveal the answer, then select your review rating. Audio: AI-generated Asuka voice at 80% speed. Audio labels follow the supplied recording order; a complete pronunciation review remains pending.</p>Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+    }
+  ],
+  "cards": [
+    {
+      "guid": "H^w,x-srY_",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "あ",
+        "Romaji": "a",
+        "Reminder": "Attention!",
+        "Mnemonic": "<img src=\"hiragana_3042_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3042_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_001.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "ec,7|HS{)1",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "い",
+        "Romaji": "i",
+        "Reminder": "Easter egg",
+        "Mnemonic": "<img src=\"hiragana_3044_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3044_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_002.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "fJ]vA(BnY*",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "う",
+        "Romaji": "u",
+        "Reminder": "Ukulele",
+        "Mnemonic": "<img src=\"hiragana_3046_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3046_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_003.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Q~En,>G66D",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "え",
+        "Romaji": "e",
+        "Reminder": "Edge of the cliff",
+        "Mnemonic": "<img src=\"hiragana_3048_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3048_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_004.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "nXFrD&~Xi",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "お",
+        "Romaji": "o",
+        "Reminder": "Oak tree drops a leaf",
+        "Mnemonic": "<img src=\"hiragana_304a_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304a_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_005.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "fy_BnVQk$_",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "か",
+        "Romaji": "ka",
+        "Reminder": "Cod",
+        "Mnemonic": "<img src=\"hiragana_304b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_006.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "kZN-qg=h8T",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "き",
+        "Romaji": "ki",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_007.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "iZ=mYWnnAZ",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "く",
+        "Romaji": "ku",
+        "Reminder": "Cuckoo bird",
+        "Mnemonic": "<img src=\"hiragana_304f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_008.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "q~p9Y`<LON",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "け",
+        "Romaji": "ke",
+        "Reminder": "Ketchup bottle",
+        "Mnemonic": "<img src=\"hiragana_3051_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3051_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_009.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "k::kM#>cfh",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "こ",
+        "Romaji": "ko",
+        "Reminder": "Comb",
+        "Mnemonic": "<img src=\"hiragana_3053_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3053_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_010.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "J](rQ!``kM",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "さ",
+        "Romaji": "sa",
+        "Reminder": "Socks",
+        "Mnemonic": "<img src=\"hiragana_3055_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3055_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_011.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "rI_`1:]qR1",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "し",
+        "Romaji": "shi",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_012.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Dx/FpL?Uz#",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "す",
+        "Romaji": "su",
+        "Reminder": "Soup ladle in a pot",
+        "Mnemonic": "<img src=\"hiragana_3059_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3059_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_013.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "u*]F?sZq!~",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "せ",
+        "Romaji": "se",
+        "Reminder": "Security guard",
+        "Mnemonic": "<img src=\"hiragana_305b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_305b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_014.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "r=f-d}0S:O",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "そ",
+        "Romaji": "so",
+        "Reminder": "Sew a stitch",
+        "Mnemonic": "<img src=\"hiragana_305d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_305d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_015.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "qu8]9x42Gt",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "た",
+        "Romaji": "ta",
+        "Reminder": "“Ta!”",
+        "Mnemonic": "<img src=\"hiragana_305f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_305f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_016.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "IUDeB`bOJF",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ち",
+        "Romaji": "chi",
+        "Reminder": "“Cheep, cheep,” says the chick",
+        "Mnemonic": "<img src=\"hiragana_3061_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3061_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_017.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "PO4}&3(^^t",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "つ",
+        "Romaji": "tsu",
+        "Reminder": "Tsunami wave",
+        "Mnemonic": "<img src=\"hiragana_3064_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3064_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_018.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "g:gH]|Ls&L",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "て",
+        "Romaji": "te",
+        "Reminder": "Telescope",
+        "Mnemonic": "<img src=\"hiragana_3066_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3066_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_019.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "wrg4f|uvGv",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "と",
+        "Romaji": "to",
+        "Reminder": "Toaster",
+        "Mnemonic": "<img src=\"hiragana_3068_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3068_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_020.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "zI4i~>QaO9",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "な",
+        "Romaji": "na",
+        "Reminder": "Nostril",
+        "Mnemonic": "<img src=\"hiragana_306a_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306a_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_021.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "s0.Kq8xKQx",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "に",
+        "Romaji": "ni",
+        "Reminder": "Knee",
+        "Mnemonic": "<img src=\"hiragana_306b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_022.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "bZ`[ZdmY&]",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぬ",
+        "Romaji": "nu",
+        "Reminder": "Noodles and chopsticks",
+        "Mnemonic": "<img src=\"hiragana_306c_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306c_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_023.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "loNWZXVy!s",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ね",
+        "Romaji": "ne",
+        "Reminder": "Next train arrives",
+        "Mnemonic": "<img src=\"hiragana_306d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_024.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "f)5^287t}~",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "の",
+        "Romaji": "no",
+        "Reminder": "No smoking",
+        "Mnemonic": "<img src=\"hiragana_306e_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306e_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_025.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "kfxo!P}6`<",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "は",
+        "Romaji": "ha",
+        "Reminder": "Hiking boot",
+        "Mnemonic": "<img src=\"hiragana_306f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_026.mp3]",
+        "Explanation": "The character is ha. As a grammatical particle, は is pronounced wa.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "B#dWILCxK=",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ひ",
+        "Romaji": "hi",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_027.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Nkj<&:Tujk",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ふ",
+        "Romaji": "fu",
+        "Reminder": "Mount Fuji",
+        "Mnemonic": "<img src=\"hiragana_3075_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3075_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_028.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Cp(7iIamdI",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "へ",
+        "Romaji": "he",
+        "Reminder": "Headband",
+        "Mnemonic": "<img src=\"hiragana_3078_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3078_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_029.mp3]",
+        "Explanation": "The character is he. As a grammatical particle, へ is pronounced e.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "F~)X`J,E6}",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ほ",
+        "Romaji": "ho",
+        "Reminder": "Hotel room",
+        "Mnemonic": "<img src=\"hiragana_307b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_030.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "rLt_`B!@ny",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ま",
+        "Romaji": "ma",
+        "Reminder": "Mop and bucket",
+        "Mnemonic": "<img src=\"hiragana_307e_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307e_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_031.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "OQ+>|cNJ!H",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "み",
+        "Romaji": "mi",
+        "Reminder": "Mean number is 21",
+        "Mnemonic": "<img src=\"hiragana_307f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_032.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "NScnmd;AwA",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "む",
+        "Romaji": "mu",
+        "Reminder": "Moose chewing leaves",
+        "Mnemonic": "<img src=\"hiragana_3080_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3080_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_033.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "vL`0<xZ)9)",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "め",
+        "Romaji": "me",
+        "Reminder": "Medallion",
+        "Mnemonic": "<img src=\"hiragana_3081_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3081_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_034.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "uEr~*kJ4fo",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "も",
+        "Romaji": "mo",
+        "Reminder": "Motorboat",
+        "Mnemonic": "<img src=\"hiragana_3082_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3082_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_035.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "D)zT)qzWyy",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "や",
+        "Romaji": "ya",
+        "Reminder": "Yawl",
+        "Mnemonic": "<img src=\"hiragana_3084_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3084_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_036.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "h)g<5K4:tl",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ゆ",
+        "Romaji": "yu",
+        "Reminder": "Utensils for eating",
+        "Mnemonic": "<img src=\"hiragana_3086_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3086_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_037.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "um$VQc>[n}",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "よ",
+        "Romaji": "yo",
+        "Reminder": "Yoga",
+        "Mnemonic": "<img src=\"hiragana_3088_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3088_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_038.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "g+a)hh<v)8",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ら",
+        "Romaji": "ra",
+        "Reminder": "Rod and reel",
+        "Mnemonic": "<img src=\"hiragana_3089_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3089_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_039.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Ala(hl2~I:",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "り",
+        "Romaji": "ri",
+        "Reminder": "Reach high",
+        "Mnemonic": "<img src=\"hiragana_308a_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308a_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_040.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "n0fB7|L5&2",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "る",
+        "Romaji": "ru",
+        "Reminder": "Rooster",
+        "Mnemonic": "<img src=\"hiragana_308b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_041.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "tX[|>$Jlnp",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "れ",
+        "Romaji": "re",
+        "Reminder": "Wrench",
+        "Mnemonic": "<img src=\"hiragana_308c_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308c_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_042.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "wU8<$6|!U,",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ろ",
+        "Romaji": "ro",
+        "Reminder": "I wrote the number “3”",
+        "Mnemonic": "<img src=\"hiragana_308d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_043.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "I]#3MvC-E,",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "わ",
+        "Romaji": "wa",
+        "Reminder": "Wallaby",
+        "Mnemonic": "<img src=\"hiragana_308f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_044.mp3]",
+        "Explanation": "",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "O5p4iHj?YX",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "を",
+        "Romaji": "wo",
+        "Reminder": "Oh! Water is too cold",
+        "Mnemonic": "<img src=\"hiragana_3092_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3092_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_045.mp3]",
+        "Explanation": "Type wo. In standard Japanese, this character is usually pronounced o.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "BJoZ7`_OT1",
+      "deck_id": 1947303100,
+      "tags": [
+        "basic",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ん",
+        "Romaji": "n",
+        "Reminder": "The letter “n”",
+        "Mnemonic": "<img src=\"hiragana_3093_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3093_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_046.mp3]",
+        "Explanation": "The sound of ん varies with the surrounding sounds; this recording is an isolated example.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "oBw.W)c-<{",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "が",
+        "Romaji": "ga",
+        "Reminder": "Cod",
+        "Mnemonic": "<img src=\"hiragana_304b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_047.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "u?PMO8T%f7",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぎ",
+        "Romaji": "gi",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_048.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "On/.2QC;;l",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぐ",
+        "Romaji": "gu",
+        "Reminder": "Cuckoo bird",
+        "Mnemonic": "<img src=\"hiragana_304f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_049.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "xxP|GLwYUI",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "げ",
+        "Romaji": "ge",
+        "Reminder": "Ketchup bottle",
+        "Mnemonic": "<img src=\"hiragana_3051_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3051_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_050.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "dW8*%E[o@Y",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ご",
+        "Romaji": "go",
+        "Reminder": "Comb",
+        "Mnemonic": "<img src=\"hiragana_3053_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3053_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_051.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "c],lY-hBW|",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ざ",
+        "Romaji": "za",
+        "Reminder": "Socks",
+        "Mnemonic": "<img src=\"hiragana_3055_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3055_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_052.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "tgG<MM2)x,",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "じ",
+        "Romaji": "ji",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_053.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. じ is ji; ぢ usually has the same pronunciation.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "AurLhYUlyn",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ず",
+        "Romaji": "zu",
+        "Reminder": "Soup ladle in a pot",
+        "Mnemonic": "<img src=\"hiragana_3059_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3059_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_054.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Dc>[L.7Ab[",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぜ",
+        "Romaji": "ze",
+        "Reminder": "Security guard",
+        "Mnemonic": "<img src=\"hiragana_305b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_305b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_055.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "mRSP%+}IF>",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぞ",
+        "Romaji": "zo",
+        "Reminder": "Sew a stitch",
+        "Mnemonic": "<img src=\"hiragana_305d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_305d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_056.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "qQ+pM7]q!g",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "だ",
+        "Romaji": "da",
+        "Reminder": "“Ta!”",
+        "Mnemonic": "<img src=\"hiragana_305f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_305f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_057.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "n]P)#DkY2$",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぢ",
+        "Romaji": "ji",
+        "Reminder": "“Cheep, cheep,” says the chick",
+        "Mnemonic": "<img src=\"hiragana_3061_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3061_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_058.mp3]",
+        "Explanation": "ぢ is usually pronounced ji, like じ in standard Japanese.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Q<lmmuDR:E",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "づ",
+        "Romaji": "zu",
+        "Reminder": "Tsunami wave",
+        "Mnemonic": "<img src=\"hiragana_3064_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3064_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_059.mp3]",
+        "Explanation": "づ is usually pronounced zu, like ず in standard Japanese.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "d#9mI`(a~p",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "で",
+        "Romaji": "de",
+        "Reminder": "Telescope",
+        "Mnemonic": "<img src=\"hiragana_3066_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3066_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_060.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "K^PXF3+6M4",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ど",
+        "Romaji": "do",
+        "Reminder": "Toaster",
+        "Mnemonic": "<img src=\"hiragana_3068_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3068_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_061.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "B@EslnI-97",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ば",
+        "Romaji": "ba",
+        "Reminder": "Hiking boot",
+        "Mnemonic": "<img src=\"hiragana_306f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_062.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "dh0`XseQJ;",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "び",
+        "Romaji": "bi",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_063.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "yZK+`J0+Gh",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぶ",
+        "Romaji": "bu",
+        "Reminder": "Mount Fuji",
+        "Mnemonic": "<img src=\"hiragana_3075_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3075_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_064.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "rhc,lM;QsM",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "べ",
+        "Romaji": "be",
+        "Reminder": "Headband",
+        "Mnemonic": "<img src=\"hiragana_3078_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3078_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_065.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "e_4tIbvCb)",
+      "deck_id": 1947303101,
+      "tags": [
+        "dakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぼ",
+        "Romaji": "bo",
+        "Reminder": "Hotel room",
+        "Mnemonic": "<img src=\"hiragana_307b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_066.mp3]",
+        "Explanation": "Dakuten ゛ changes the base sound. ",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "gLQd2v3Zu:",
+      "deck_id": 1947303102,
+      "tags": [
+        "handakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぱ",
+        "Romaji": "pa",
+        "Reminder": "Hiking boot",
+        "Mnemonic": "<img src=\"hiragana_306f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_067.mp3]",
+        "Explanation": "Handakuten ゜ changes an h-row sound to a p-row sound.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Eck8]2BN-]",
+      "deck_id": 1947303102,
+      "tags": [
+        "handakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぴ",
+        "Romaji": "pi",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_068.mp3]",
+        "Explanation": "Handakuten ゜ changes an h-row sound to a p-row sound.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "AN/HNW-5<g",
+      "deck_id": 1947303102,
+      "tags": [
+        "handakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぷ",
+        "Romaji": "pu",
+        "Reminder": "Mount Fuji",
+        "Mnemonic": "<img src=\"hiragana_3075_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3075_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_069.mp3]",
+        "Explanation": "Handakuten ゜ changes an h-row sound to a p-row sound.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "tfhN1}2qP|",
+      "deck_id": 1947303102,
+      "tags": [
+        "handakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぺ",
+        "Romaji": "pe",
+        "Reminder": "Headband",
+        "Mnemonic": "<img src=\"hiragana_3078_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3078_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_070.mp3]",
+        "Explanation": "Handakuten ゜ changes an h-row sound to a p-row sound.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "uDx75j*uUy",
+      "deck_id": 1947303102,
+      "tags": [
+        "handakuten",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぽ",
+        "Romaji": "po",
+        "Reminder": "Hotel room",
+        "Mnemonic": "<img src=\"hiragana_307b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_071.mp3]",
+        "Explanation": "Handakuten ゜ changes an h-row sound to a p-row sound.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "e>&3&ALojj",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "きゃ",
+        "Romaji": "kya",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_072.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "wYz`uoveA9",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "きゅ",
+        "Romaji": "kyu",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_073.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "tnTu&%FO=@",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "きょ",
+        "Romaji": "kyo",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_074.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "o:Si)@LsX|",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "しゃ",
+        "Romaji": "sha",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_075.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "G/Gxg,afWV",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "しゅ",
+        "Romaji": "shu",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_076.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "v=CitPn+k5",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "しょ",
+        "Romaji": "sho",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_077.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "sG,_I?[/l|",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ちゃ",
+        "Romaji": "cha",
+        "Reminder": "“Cheep, cheep,” says the chick",
+        "Mnemonic": "<img src=\"hiragana_3061_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3061_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_078.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "n[Mim<W=ha",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ちゅ",
+        "Romaji": "chu",
+        "Reminder": "“Cheep, cheep,” says the chick",
+        "Mnemonic": "<img src=\"hiragana_3061_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3061_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_079.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "h,}#;:b1SQ",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ちょ",
+        "Romaji": "cho",
+        "Reminder": "“Cheep, cheep,” says the chick",
+        "Mnemonic": "<img src=\"hiragana_3061_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3061_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_080.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "zM$ql6bkYO",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "にゃ",
+        "Romaji": "nya",
+        "Reminder": "Knee",
+        "Mnemonic": "<img src=\"hiragana_306b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_081.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "l<P?fYZlWD",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "にゅ",
+        "Romaji": "nyu",
+        "Reminder": "Knee",
+        "Mnemonic": "<img src=\"hiragana_306b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_082.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "gH/Sy!Th>t",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "にょ",
+        "Romaji": "nyo",
+        "Reminder": "Knee",
+        "Mnemonic": "<img src=\"hiragana_306b_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_306b_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_083.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "qp7k)S(1r<",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ひゃ",
+        "Romaji": "hya",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_084.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "P<(2tQJZUn",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ひゅ",
+        "Romaji": "hyu",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_085.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "wv,#hHt.SQ",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ひょ",
+        "Romaji": "hyo",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_086.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "b|$/C;g`/}",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "みゃ",
+        "Romaji": "mya",
+        "Reminder": "Mean number is 21",
+        "Mnemonic": "<img src=\"hiragana_307f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_087.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "J0^g!?Wj;}",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "みゅ",
+        "Romaji": "myu",
+        "Reminder": "Mean number is 21",
+        "Mnemonic": "<img src=\"hiragana_307f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_088.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "AtvrwPEmpt",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "みょ",
+        "Romaji": "myo",
+        "Reminder": "Mean number is 21",
+        "Mnemonic": "<img src=\"hiragana_307f_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_307f_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_089.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "hNjJ:nn]>K",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "りゃ",
+        "Romaji": "rya",
+        "Reminder": "Reach high",
+        "Mnemonic": "<img src=\"hiragana_308a_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308a_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_090.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Ao,)ch0G6<",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "りゅ",
+        "Romaji": "ryu",
+        "Reminder": "Reach high",
+        "Mnemonic": "<img src=\"hiragana_308a_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308a_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_091.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "i;B+hB:=G(",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "りょ",
+        "Romaji": "ryo",
+        "Reminder": "Reach high",
+        "Mnemonic": "<img src=\"hiragana_308a_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_308a_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_092.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "h+H2x[fcfx",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぎゃ",
+        "Romaji": "gya",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_093.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "dHC[zZQs;[",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぎゅ",
+        "Romaji": "gyu",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_094.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "rLYCpao--n",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぎょ",
+        "Romaji": "gyo",
+        "Reminder": "Key",
+        "Mnemonic": "<img src=\"hiragana_304d_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_304d_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_095.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "D<Z=7F,FgS",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "じゃ",
+        "Romaji": "ja",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_096.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Ji.m4|51qI",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "じゅ",
+        "Romaji": "ju",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_097.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "Y26kS!9n{",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "じょ",
+        "Romaji": "jo",
+        "Reminder": "Sheep",
+        "Mnemonic": "<img src=\"hiragana_3057_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3057_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_098.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "oNXs23WZ>Q",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "びゃ",
+        "Romaji": "bya",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_099.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "nGp-1eQVs:",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "びゅ",
+        "Romaji": "byu",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_100.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "c4:*B|FddY",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "びょ",
+        "Romaji": "byo",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_101.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "G~zvWc~fN*",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぴゃ",
+        "Romaji": "pya",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_102.mp3]",
+        "Explanation": "Combine the base character with small ゃ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "jWa&0qO)J%",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぴゅ",
+        "Romaji": "pyu",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_103.mp3]",
+        "Explanation": "Combine the base character with small ゅ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    },
+    {
+      "guid": "H?^w^0ih!{",
+      "deck_id": 1947303103,
+      "tags": [
+        "yoon",
+        "hiragana"
+      ],
+      "fields": {
+        "Kana": "ぴょ",
+        "Romaji": "pyo",
+        "Reminder": "Heel",
+        "Mnemonic": "<img src=\"hiragana_3072_mnemonic.png\">",
+        "Stroke": "<img src=\"hiragana_3072_stroke.png\">",
+        "Audio": "[sound:kana_asuka80_104.mp3]",
+        "Explanation": "Combine the base character with small ょ. Read the combination as one beat.",
+        "Credits": "Mnemonic illustrations: B. Domangue (LeafPiece), <a href=\"https://commons.wikimedia.org/wiki/File:Japanese_Kana_Mnemonic_Chart.png\">Japanese Kana Mnemonic Chart</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Mnemonic illustrations are cropped and resized from the original chart. Some illustrations were cleaned to remove stray text or marks.<br>Stroke order: Pmx (after Karine Widmer), <a href=\"https://commons.wikimedia.org/wiki/File:Table_hiragana.svg\">Table hiragana.svg</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cropped/resized.<br>Audio: AI-generated with <a href=\"https://speechgen.io/en/tts-japanese/\">SpeechGen</a>, Asuka at 80% speed; split from user-generated recording. Audio is separate from Creative Commons licensing; see <a href=\"https://speechgen.io/en/node/privacy/\">SpeechGen usage terms, section 4</a>.<br>Original card text/design: Soreasan / ソレアサン, CC BY-SA 4.0. Please report pronunciation or content errors through the deck download page or to the person who supplied this deck."
+      }
+    }
+  ]
+}
