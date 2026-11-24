@@ -1,6 +1,6 @@
 # Open Source Kana
 
-Free Hiragana and Katakana workbooks and typed-answer Anki decks for individual learners, study groups, and classrooms.
+Free, openly licensed Hiragana and Katakana workbooks, Anki flashcards, and four-week or five-week classroom lesson presentations for individual learners, study groups, and Japanese language teachers.
 
 Created by **Soreasan / ソレアサン**, with AI assistance. Pronunciation audio is synthesized, not a human recording.
 
@@ -42,7 +42,8 @@ Modified kana and yōon reuse the base-character artwork with an explanatory not
 | `scripts/` | Portable deck builder and audio splitter |
 | `docs/` | Attribution, review status, and GitHub setup instructions |
 | `lessons/` | Four-week and five-week Hiragana and Katakana classroom lessons |
-| `releases/v1.0.0/` | Prepared Anki packages for an initial release |
+| `releases/v1.0.0/` | Archived Anki packages from the original v1.0.0 release. |
+| `releases/v1.1.0/` | Version 1.1.0 workbooks and Anki decks, preserved as a versioned archive. For complete downloads, including classroom lessons, visit [GitHub Releases](https://github.com/Soreasan/open-source-kana/releases). |
 
 The original external SVG source files are linked in `docs/ATTRIBUTION.md`; the bundled full chart images are the raster copies actually embedded in the workbooks.
 
