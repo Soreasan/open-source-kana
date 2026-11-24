@@ -38,8 +38,10 @@ Modified kana and yōon reuse the base-character artwork with an explanatory not
 | `assets/stroke-order/` | Cropped stroke-order diagrams |
 | `assets/source-charts/` | Full chart images embedded in the workbooks |
 | `assets/audio/` | Original 80% recording, decoded WAV master, 138 clips, and boundary index |
+| `assets/guided-tracing/` | Reusable Hiragana and Katakana handwriting guides |
 | `scripts/` | Portable deck builder and audio splitter |
 | `docs/` | Attribution, review status, and GitHub setup instructions |
+| `lessons/` | Four-week and five-week Hiragana and Katakana classroom lessons |
 | `releases/v1.0.0/` | Prepared Anki packages for an initial release |
 
 The original external SVG source files are linked in `docs/ATTRIBUTION.md`; the bundled full chart images are the raster copies actually embedded in the workbooks.
@@ -87,6 +89,20 @@ You are welcome to edit and share this project under the applicable terms. This 
 
 See `LICENSE.md`, `LICENSE-CODE.txt`, and `docs/ATTRIBUTION.md`. Preserve source credits when sharing edited decks or workbooks. A CC notice does not create copyright in otherwise unprotected AI-generated material.
 
-## Feedback
+## Feedback & Contributions
 
-Once hosted on GitHub, use this repository's **Issues** to report problems. Include the script, kana, affected file, Anki version/device, and what seems wrong. If this archive is shared before the repository exists, contact the person who provided it. Please report audio errors before treating version 1.0 as a fully reviewed pronunciation resource.
+Found an error or have a suggestion for improving the materials?
+
+Please [open a GitHub Issue](https://github.com/Soreasan/open-source-kana/issues).
+
+Feedback is welcome on:
+
+- Kana accuracy, pronunciation, and stroke order.
+- Mnemonics and learning activities.
+- Anki flashcards and pronunciation audio.
+- Classroom lesson presentations.
+- Formatting, accessibility, and licensing.
+
+When reporting an issue, please include the affected workbook, lesson, slide, or Anki card whenever possible.
+
+Contributions and suggestions from Japanese learners and teachers are welcome!
