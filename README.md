@@ -6,14 +6,19 @@ Created by **Soreasan / ソレアサン**, with AI assistance. Pronunciation aud
 
 ## Downloads
 
-The starter archive includes ready-to-import packages in `releases/v1.0.0/`:
+**Download the latest Hiragana and Katakana learning materials here:**
 
-- **Open Source Hiragana** — 104 cards
-- **Open Source Katakana** — 104 cards
+**[Open Source Kana — GitHub Releases](https://github.com/Soreasan/open-source-kana/releases)**
 
-Each deck has four numbered subdecks: basic kana (46), dakuten (20), handakuten (5), and yōon (33). The editable workbooks are in `workbooks/`.
+Available resources include:
 
-After publishing this repository, attach the finished packages and workbooks to a GitHub Release and add its link here. The repository name and GitHub account URL have deliberately not been guessed.
+- **Hiragana and Katakana Workbooks:** Free PDF textbooks and editable PowerPoint presentations.
+- **Anki Flashcard Decks:** Spaced repetition decks covering basic kana, dakuten, handakuten, and combined sounds.
+- **Classroom Lesson Presentations:** Four-week and five-week lesson plans, available in PowerPoint and PDF formats.
+- **Writing Practice Assets:** Reusable faded kana tracing images and stroke-order illustrations.
+- **Source Files:** Additional educational assets and scripts for adapting or creating your own materials.
+
+All materials are free to download. Please review the included licensing and attribution information before modifying or redistributing them.
 
 ## Using the decks
 
